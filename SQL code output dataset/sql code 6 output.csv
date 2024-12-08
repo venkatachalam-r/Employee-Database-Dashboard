@@ -1,0 +1,37 @@
+gender,dept_name,Avg_Salary,Jan_1_1998
+M,Marketing,68078,before
+M,Marketing,68118,"on or after"
+F,Marketing,65911,before
+F,Marketing,63803,"on or after"
+M,Finance,67585,before
+M,Finance,60399,"on or after"
+F,Finance,64962,before
+F,Finance,58977,"on or after"
+M,"Human Resources",51902,before
+M,"Human Resources",51893,"on or after"
+F,"Human Resources",49780,before
+F,"Human Resources",50488,"on or after"
+M,Production,56714,before
+M,Production,53690,"on or after"
+F,Production,53794,before
+F,Production,49772,"on or after"
+M,Development,56757,before
+M,Development,53058,"on or after"
+F,Development,53702,before
+F,Development,49357,"on or after"
+M,"Quality Management",54463,before
+M,"Quality Management",52982,"on or after"
+F,"Quality Management",51648,before
+F,"Quality Management",48824,"on or after"
+M,Sales,78562,before
+M,Sales,73437,"on or after"
+F,Sales,75158,before
+F,Sales,68517,"on or after"
+M,Research,56835,before
+M,Research,55288,"on or after"
+F,Research,54166,before
+F,Research,51475,"on or after"
+M,"Customer Service",54303,before
+M,"Customer Service",60771,"on or after"
+F,"Customer Service",51880,before
+F,"Customer Service",57154,"on or after"
